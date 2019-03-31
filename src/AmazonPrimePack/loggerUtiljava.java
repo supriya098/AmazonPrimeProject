@@ -10,7 +10,7 @@ package AmazonPrimePack;
 
 	public class loggerUtiljava {
 
-		private static final String LOG_LOCATION = "C:\\Users\\suman_priya\\Work Space\\Jar files\\AmazonPrimeTestCaseLogFile";
+		private static final String LOG_LOCATION = "C:\\temp\\AmazonPrimeTestCaseLogFile";
 		private static FileAppender fappender;
 		private static Logger logger = Logger.getLogger( loggerUtiljava.class);
 
